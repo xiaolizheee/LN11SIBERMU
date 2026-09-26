@@ -1,0 +1,6 @@
+{
+  "name": "Manajemen 11 | Sibermu PJJ Luar Negeri",
+  "description": "Portal resmi & pusat informasi Komunitas Manajemen 11 Universitas Siber Muhammadiyah PJJ Luar Negeri. Connecting Minds Beyond Borders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
